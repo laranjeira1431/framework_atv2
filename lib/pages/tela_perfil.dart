@@ -22,7 +22,7 @@ class TelaPerfil extends StatelessWidget {
             ),
             const SizedBox(height: 20),
             const Text(
-              'Igor Lucas',
+              'Manuela Laranjeira',
               style: TextStyle(
                 fontSize: 26,
                 fontWeight: FontWeight.bold,
@@ -30,7 +30,7 @@ class TelaPerfil extends StatelessWidget {
             ),
             const SizedBox(height: 8),
             const Text(
-              'Professor de Desenvolvimento',
+              'Estudante de TI',
               style: TextStyle(
                 fontSize: 16,
                 color: Colors.grey,
